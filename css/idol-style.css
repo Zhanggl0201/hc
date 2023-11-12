@@ -1,0 +1,15 @@
+header{background-color: rgb(125, 110, 210);text-align: center;line-height:66px ;}
+header{color: white;font-size: 30px;letter-spacing: 40px;}
+nav{background-color: rgb(26, 78, 24);float: left;line-height: 32px;width: 100%;text-align: center;}
+nav{font-size: 20px;letter-spacing: 30px;}
+nav a{color: aliceblue;text-decoration: none;}
+nav a:hover{background: red;}
+article{background-color: rgb(140, 94, 214);width:60%;height: 100%;}
+
+
+body{background-color: rgba(143, 102, 196, 0.228);}
+
+.aside{float: right;width: 40%;}
+.aside{position: relative;bottom: 680px;left: 120px;}
+
+
